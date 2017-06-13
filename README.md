@@ -1,5 +1,7 @@
 # online_degree
-Projects from the online degree coursework
+Selected projects from the online degree coursework. 
+
+Projects that do not add anything new to my Github portfolio have been excluded.
 
 Here are the links to view the notebooks in your browser: 
 
