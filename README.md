@@ -15,3 +15,6 @@ Inferential statistics in R
 
 https://cdn.rawgit.com/mikeeryan/online_degree/b8a98c0c/P06_stroop.html
 
+A/B Testing in R
+
+https://cdn.rawgit.com/mikeeryan/online_degree/6d6c7daa/P09_AB_test.html
