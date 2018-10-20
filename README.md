@@ -25,3 +25,14 @@ A/B Testing in R
 
 https://cdn.rawgit.com/mikeeryan/online_degree/6d6c7daa/P09_AB_test.html
 
+Description: 
+These are the various projects that were part of the Data Analyst Nanodegree. 
+
+Software dependences:
+Dependencies vary by the project: Python2, Python3 and R
+
+Running instructions:
+Each Jupyter notebook contains all the code needed to run the project. 
+
+Data sources:
+are specific to each project. 
