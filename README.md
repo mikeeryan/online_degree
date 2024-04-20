@@ -7,23 +7,23 @@ Here are the links to view the notebooks in your browser:
 
 Descriptive statistics in Python2
 
-https://cdn.rawgit.com/mikeeryan/online_degree/e7ec0163/P02_descriptive.html
+https://rawcdn.githack.com/mikeeryan/online_degree/50f44a0905555d668803c237f7ded9e64f5b1c70/P02_descriptive.html
 
 OpenStreetMap Data Case study in Python2 and MongoDB
 
-https://cdn.rawgit.com/mikeeryan/online_degree/6a7865a1/P04_OSM_MongoDB.html
+https://rawcdn.githack.com/mikeeryan/online_degree/50f44a0905555d668803c237f7ded9e64f5b1c70/P04_OSM_MongoDB.html
 
 Inferential statistics in R
 
-https://cdn.rawgit.com/mikeeryan/online_degree/b8a98c0c/P06_stroop.html
+https://rawcdn.githack.com/mikeeryan/online_degree/50f44a0905555d668803c237f7ded9e64f5b1c70/P06_stroop.html
 
 Machine Learning using "sklearn" library for Python2
 
-https://cdn.rawgit.com/mikeeryan/online_degree/45242f34/P07_ML.html
+https://rawcdn.githack.com/mikeeryan/online_degree/50f44a0905555d668803c237f7ded9e64f5b1c70/P07_ML.html
 
 A/B Testing in R
 
-https://cdn.rawgit.com/mikeeryan/online_degree/6d6c7daa/P09_AB_test.html
+https://rawcdn.githack.com/mikeeryan/online_degree/50f44a0905555d668803c237f7ded9e64f5b1c70/P09_AB_test.html
 
 Description: 
 These are the various projects that were part of the Data Analyst Nanodegree. 
